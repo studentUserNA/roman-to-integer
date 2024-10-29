@@ -14,4 +14,4 @@ class Solution:
             prev_value = value
 
         return total
- 
+#pullUp
